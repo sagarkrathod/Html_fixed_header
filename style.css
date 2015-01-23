@@ -1,0 +1,10 @@
+body{padding: 0px;margin: 0px; font-family: monospace; font-size: 22px}
+nav{padding:0px; background-color: #f8f8f8; border: 1px solid #e7e7e7;display: inline-block; width: 100%;}
+nav ul{margin: 0px;}
+nav ul li{ float: left; display: inline-block; border: 1px solid #e7e7e7; border-bottom-width: 0px; border-top-width: 0px; border-left-width: 0px; padding: 15px; cursor: pointer}
+nav ul li:hover{background-color: #e7e7e7;}
+.textbox{border: 1px solid #cccccc; font-size: 15px; border-radius: 10px;padding:5px; }
+.login{padding-left: 40%;  background-color: green; font-size: 20px; height: 150px; color:white; padding-top: 100px}
+.navFixed{position: fixed; top: 0px;  }
+button{font-size: 17px; border-radius: 15px;}
+.navNotFixed{position: relative; opacity: 1;}
